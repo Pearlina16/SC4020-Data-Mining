@@ -7,6 +7,6 @@
  ### a. Analysis of Co-occurrence Patterns of Points of Interest (POI)
  ### b. Mining Sequential Patterns
  ### c. Open Advanced Task
-      #### Problem Statement: Predicting the user’s next location 
-      #### Dataset: Trip Legs generated in task 2
-      #### Solution: Use the Triplegs generated in task 2 as input into an LSTM model to predict a user's next location. 
+        Problem Statement: Predicting the user’s next location 
+        Dataset: Trip Legs generated in task 2
+        Solution: Use the Triplegs generated in task 2 as input into an LSTM model to predict a user's next location. 
